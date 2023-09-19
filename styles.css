@@ -1,0 +1,60 @@
+*{
+    padding: 0%;
+}
+
+.navbar{
+    background-color: rgb(250, 251, 253);
+    align-content: space-evenly;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    height: 40px;
+    align-items: center;
+    
+}
+.logo {
+    height: 15px;
+    width: 15px;
+}
+
+.search{
+    height: 15px;
+    width: 15px;
+
+}
+
+.bag {
+    height: 15px;
+    width: 15px;
+}
+.para {
+    background-color: rgb(254, 254, 255);
+    align-content: space-evenly;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    height: 40px;
+    align-items: center;
+      
+}
+
+.img{
+    width: 1400px;
+}
+
+.img2{
+    width: 1400px;
+}
+.img3{
+    width: 1400px;
+}
+.img4{
+    width: 1400px;
+}
+.img5{
+    width: 1400px;
+}
+.img6{
+    width: 1400px;
+}
+
